@@ -1,6 +1,5 @@
 package n3exercici1;
 
-import java.util.Scanner;
 
 public class Main {
 
