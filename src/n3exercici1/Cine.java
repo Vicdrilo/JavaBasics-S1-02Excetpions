@@ -69,6 +69,7 @@ public class Cine {
 			anularReservaPersona();
 			break;
 		case 0:
+			scan.close();
 			break;
 		default:
 			System.out.println("Només has d'introduir un número del 0 al 5.");
